@@ -6,5 +6,6 @@ Paste the 'upxunpacker.bat' present in 'Sendto_Batfile' in sendto location (Type
 
 Recommended when :
 
-If you want to unpack multiple UPX Malware sample present in one folder ,simply right click the folder choose sendto->upxunpacker.bat
+If you want to unpack multiple UPX Malware sample present in one folder ,simply right click the folder you want and choose 
+sendto->upxunpacker.bat
 It will unpack all upx samples in one go.
